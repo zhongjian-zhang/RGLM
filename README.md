@@ -115,7 +115,7 @@ Core workflow:
 We use the following datasets, all available under MIT license:
 
 - **Cora, Pubmed, OGBN-Arxiv**: [LLaGA Repository](https://github.com/VITA-Group/LLaGA)
-- **Reddit**: [LLaGA Repository](https://github.com/NineAbyss/GLBench)
+- **Reddit**: [GLBench Repository](https://github.com/NineAbyss/GLBench)
 
 For convenience, we provide preprocessed datasets at [dataset](https://drive.google.com/drive/folders/1aPlqxTUjRPUCNlRS-OpaRToEhZb61ffu). Place the downloaded files in the corresponding subdirectories under the `dataset/` directory.
 
